@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\bin\Debug\net7.0\QestionMark.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\bin\Debug\net7.0\QestionMark.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\bin\Debug\net7.0\QestionMark.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\bin\Debug\net7.0\QestionMark.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\bin\Debug\net7.0\QestionMark.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\refint\QestionMark.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\QestionMark.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\QestionMark\obj\Debug\net7.0\ref\QestionMark.dll
