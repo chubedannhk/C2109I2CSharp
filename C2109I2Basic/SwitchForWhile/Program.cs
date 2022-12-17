@@ -49,9 +49,12 @@ foreach (var arr in arrs)
 //    i++;
 //}
 
+// vong lap nay nhanh hon vong lap foreach
 IEnumerator e = arrs.GetEnumerator();
 while (e.MoveNext())
 {
     string s = e.Current.ToString();
     Console.WriteLine(s);
 }
+
+// ket thuc nha

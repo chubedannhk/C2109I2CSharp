@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\bin\Debug\net7.0\RetOutRegexTryParse.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\bin\Debug\net7.0\RetOutRegexTryParse.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\bin\Debug\net7.0\RetOutRegexTryParse.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\bin\Debug\net7.0\RetOutRegexTryParse.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\bin\Debug\net7.0\RetOutRegexTryParse.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\refint\RetOutRegexTryParse.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\RetOutRegexTryParse.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\RetOutRegexTryParse\obj\Debug\net7.0\ref\RetOutRegexTryParse.dll
