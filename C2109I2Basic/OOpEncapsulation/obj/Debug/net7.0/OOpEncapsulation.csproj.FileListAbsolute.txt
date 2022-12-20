@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\bin\Debug\net7.0\OOpEncapsulation.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\bin\Debug\net7.0\OOpEncapsulation.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\bin\Debug\net7.0\OOpEncapsulation.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\bin\Debug\net7.0\OOpEncapsulation.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\bin\Debug\net7.0\OOpEncapsulation.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\refint\OOpEncapsulation.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\OOpEncapsulation.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\OOpEncapsulation\obj\Debug\net7.0\ref\OOpEncapsulation.dll
