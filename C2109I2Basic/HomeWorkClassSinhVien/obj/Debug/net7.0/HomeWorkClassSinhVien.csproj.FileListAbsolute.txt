@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\bin\Debug\net7.0\HomeWorkClassSinhVien.exe
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\bin\Debug\net7.0\HomeWorkClassSinhVien.deps.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\bin\Debug\net7.0\HomeWorkClassSinhVien.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\bin\Debug\net7.0\HomeWorkClassSinhVien.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\bin\Debug\net7.0\HomeWorkClassSinhVien.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\refint\HomeWorkClassSinhVien.dll
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.pdb
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\HomeWorkClassSinhVien.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2CSharp\C2109I2Basic\HomeWorkClassSinhVien\obj\Debug\net7.0\ref\HomeWorkClassSinhVien.dll

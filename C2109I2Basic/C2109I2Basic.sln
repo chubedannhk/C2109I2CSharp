@@ -21,13 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPEncapsulationProperty", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPProlymorphismOverloading", "OOPProlymorphismOverloading\OOPProlymorphismOverloading.csproj", "{AA94AE52-FD27-4390-BEDE-D2260F16BF2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPPolymorphismOverriding", "OOPPolymorphismOverriding\OOPPolymorphismOverriding.csproj", "{6123B34B-2336-4616-8419-2361EE94D423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPPolymorphismOverriding", "OOPPolymorphismOverriding\OOPPolymorphismOverriding.csproj", "{6123B34B-2336-4616-8419-2361EE94D423}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPPolymorphismInterface", "OOPPolymorphismInterface\OOPPolymorphismInterface.csproj", "{CBFC58F7-2A34-4120-9210-5528C8AE7FE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPPolymorphismInterface", "OOPPolymorphismInterface\OOPPolymorphismInterface.csproj", "{CBFC58F7-2A34-4120-9210-5528C8AE7FE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{81675ABE-4AE6-401E-A296-15BF27F675C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{81675ABE-4AE6-401E-A296-15BF27F675C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndLinq", "ListAndLinq\ListAndLinq.csproj", "{1653C2C6-0D49-4869-8A08-90056CEBCEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLinq", "ListAndLinq\ListAndLinq.csproj", "{1653C2C6-0D49-4869-8A08-90056CEBCEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkClassSinhVien", "HomeWorkClassSinhVien\HomeWorkClassSinhVien.csproj", "{021E1706-EEFC-49BE-ABE6-2AB48F47376C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{1653C2C6-0D49-4869-8A08-90056CEBCEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1653C2C6-0D49-4869-8A08-90056CEBCEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1653C2C6-0D49-4869-8A08-90056CEBCEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
