@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethod", "Extensio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLinq", "ListAndLinq\ListAndLinq.csproj", "{1653C2C6-0D49-4869-8A08-90056CEBCEEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkClassSinhVien", "HomeWorkClassSinhVien\HomeWorkClassSinhVien.csproj", "{021E1706-EEFC-49BE-ABE6-2AB48F47376C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkClassSinhVien", "HomeWorkClassSinhVien\HomeWorkClassSinhVien.csproj", "{021E1706-EEFC-49BE-ABE6-2AB48F47376C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021E1706-EEFC-49BE-ABE6-2AB48F47376C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
