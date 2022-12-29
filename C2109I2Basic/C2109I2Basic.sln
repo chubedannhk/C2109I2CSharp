@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLinq", "ListAndLinq\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkClassSinhVien", "HomeWorkClassSinhVien\HomeWorkClassSinhVien.csproj", "{021E1706-EEFC-49BE-ABE6-2AB48F47376C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClass\GenericClass.csproj", "{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditHomeWork", "EditHomeWork\EditHomeWork.csproj", "{C84D86AC-95BD-4578-9E27-F9438AB82A7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7C0669F-A7F6-4E9E-8F44-29A8DF764D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84D86AC-95BD-4578-9E27-F9438AB82A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84D86AC-95BD-4578-9E27-F9438AB82A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84D86AC-95BD-4578-9E27-F9438AB82A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84D86AC-95BD-4578-9E27-F9438AB82A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
